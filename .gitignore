@@ -1,0 +1,14 @@
+# Runtime logs (local dev noise, not source)
+*.log
+
+# Editing backups from redesign passes
+*.bak
+
+# Real, already-issued client quote — not a site page, not for public repo
+quote.html
+
+# Internal business-strategy notes — not for public repo
+PRODUCT.md
+
+# Design-review tool state
+.impeccable/
